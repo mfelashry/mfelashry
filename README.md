@@ -1,4 +1,22 @@
+<table>
+<tr>
+<td align="center">
 
+<a href="https://linkedin.com/in/melashry">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/367/150/datas/profile.jpeg" width="120" alt="Mohamed Elashry"/>
+<br/>
+<b>Mohamed Elashry</b>
+</a>
+
+<br/>
+<sub>Builder · Developer</sub>
+<br/><br/>
+
+<a href="https://linkedin.com/in/melashry">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</td>
 </a>
 
 </div>
