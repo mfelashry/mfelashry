@@ -5,8 +5,7 @@
 <a href="https://linkedin.com/in/melashry">
 <br/>
 <b>Mohamed Elashry</b>
-<b>ㅤ</b>
-  
+<tr> ㅤ</tr>  
   </div>
 
 </a>
