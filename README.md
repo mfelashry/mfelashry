@@ -3,7 +3,6 @@
 <td align="center">
 
 <a href="https://linkedin.com/in/melashry">
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/367/150/datas/profile.jpeg" width="120" alt="Mohamed Elashry"/>
 <br/>
 <b>Mohamed Elashry</b>
 </a>
