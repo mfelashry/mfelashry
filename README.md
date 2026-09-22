@@ -1,7 +1,5 @@
 <div align="center">
 
-What I work with
-
 <a href="https://devpost.com/mfelashryy"><img height="36" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
 <a href="https://www.linkedin.com/in/melashry/"><img height="36" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mfelashry@outlook.com"><img height="36" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
