@@ -55,8 +55,40 @@
 
 <br>
 
-REST and WebSocket APIs · OpenAPI · Zod · Vite · Electron · Mongoose · MongoDB Atlas · SQLite · JSON · Tool calling · Local AI models · AI agents · Speech-to-text · Text-to-speech · GeoJSON · GIS · Geocoding · Cloudflare Workers · Vercel · Render · Netlify · Nginx · Linux · Bash · Selenium · Beautiful Soup · Web scraping · Playwright · Xcode · UIKit · iOS and macOS development · Networking
-
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket APIs](https://img.shields.io/badge/WebSocket_APIs-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-444444?style=for-the-badge&logo=openai&logoColor=white)
+![Local AI Models](https://img.shields.io/badge/Local_AI_Models-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-5A45FF?style=for-the-badge&logo=openai&logoColor=white)
+![Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white)
+![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-34A853?style=for-the-badge&logo=googleassistant&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-5A9A42?style=for-the-badge&logo=json&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-2E7D32?style=for-the-badge&logo=qgis&logoColor=white)
+![Geocoding](https://img.shields.io/badge/Geocoding-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-59666C?style=for-the-badge&logo=python&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![iOS Development](https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=ios&logoColor=white)
+![macOS Development](https://img.shields.io/badge/macOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-005F9E?style=for-the-badge&logo=cisco&logoColor=white)
 </details>
 
 <sub>Always learning and Usually building.</sub>
