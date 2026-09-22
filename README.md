@@ -1,3 +1,14 @@
+<table>
+<tr>
+<td align="center">
+
+<a href="https://linkedin.com/in/melashry">
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/367/150/datas/profile.jpeg" width="120" alt="Mohamed Elashry"/>
+<br/>
+<b>Mohamed Elashry</b>
+</a>
+
+
 <div align="center">
 
 <a href="https://devpost.com/mfelashryy"><img height="40" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
