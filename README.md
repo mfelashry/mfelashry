@@ -1,12 +1,3 @@
-<table>
-<tr>
-<td align="center">
-
-<a href="https://linkedin.com/in/melashry">
-<br/>
-<b>Mohamed Elashry</b>
-<tr> ㅤ</tr>  
-  </div>
 
 </a>
 
